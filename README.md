@@ -107,8 +107,8 @@ Tool to remove Word document and VBA passwords.
 #### نسخ جاهزة للتشغيل (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/ps91andr/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/ps91andr/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/ps91andr/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
@@ -252,10 +252,9 @@ Tool to remove Word document and VBA passwords.
 
 ### 📬 التواصل
 
-- **البريد الإلكتروني**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
 - **البريد الإلكتروني**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
-- **غيت هوب**: [@ps91andr](https://github.com/ps91andr)
-- **الموقع**: [https://github.com/ps91andr](https://github.com/ps91andr)
+- **غيت هوب**: [@TahaDev0](https://github.com/TahaDev0)
+- **الموقع**: [https://github.com/TahaDev0](https://github.com/TahaDev0)
 
 ---
 
@@ -318,8 +317,8 @@ Tool to remove Word document and VBA passwords.
 #### Ready-to-run versions (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/ps91andr/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/ps91andr/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/ps91andr/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/xxxxxxxxx) |
 
 > 💡 **Note:* Just download and play directly!!
 
@@ -421,10 +420,9 @@ By using this tool, you acknowledge and agree that you:
 
 ### 📬 Contact
 
-- **Email**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
 - **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
-- **GitHub**: [@ps91andr](https://github.com/ps91andr)
-- **WEB**: [https://github.com/ps91andr](https://github.com/ps91andr)
+- **GitHub**: [@TahaDev0](https://github.com/TahaDev0)
+- **WEB**: [https://github.com/TahaDev0](https://github.com/TahaDev0)
 
 ---
 
