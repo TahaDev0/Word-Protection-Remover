@@ -107,8 +107,8 @@ Tool to remove Word document and VBA passwords.
 #### نسخ جاهزة للتشغيل (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/korl9vapgd5d) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/korl9vapgd5d) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
@@ -317,8 +317,8 @@ Tool to remove Word document and VBA passwords.
 #### Ready-to-run versions (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/korl9vapgd5d) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/korl9vapgd5d) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/Word_Protection_Remover_AR_EN](https://github.com/TahaDev0/Word-Protection-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
 > 💡 **Note:* Just download and play directly!!
 
